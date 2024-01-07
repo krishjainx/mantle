@@ -45,6 +45,7 @@ require (
 	golang.org/x/sys v0.5.0
 	golang.org/x/text v0.7.0
 	google.golang.org/api v0.74.0
+	gopkg.in/yaml.v3 v3.0.0
 )
 
 require (
@@ -116,7 +117,6 @@ require (
 	google.golang.org/genproto v0.0.0-20220324131243-acbaeb5b85eb // indirect
 	google.golang.org/grpc v1.45.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
 
 replace github.com/Microsoft/azure-vhd-utils => github.com/kinvolk/azure-vhd-utils v0.0.0-20210818134022-97083698b75f
